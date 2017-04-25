@@ -5,4 +5,18 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+
+    <string name="menu_test">添加子项</string>
+    <string name="menu_playing">正在播放</string>
+    <string name="menu_playlist">播放列表</string>
+    <string name="menu_download">下载管理</string>
+    <string name="menu_local">本地歌曲</string>
+    <string name="menu_setting">设置</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_feedback">问题反馈</string>
+    <string name="menu_search">搜索</string>
+
+    <string name="drawer_about">天涯何处无芳草,何必非在身边找,况且质量还不好!</string>
+    <string name="drawer_nickname">我是达康书记啊???</string>
 </resources>
